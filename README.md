@@ -8,8 +8,8 @@ There are two sub-directory for project.
 
 ## Project Directory
 
- - [Dog Client](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Dog Server](https://github.com/matiassingers/awesome-readme)
+ - [Dog Client](https://github.com/Solankimimoh/dog-fun-app/tree/main/dog-client)
+ - [Dog Server](https://github.com/Solankimimoh/dog-fun-app/tree/main/dog-server)
 
 
 ## Client Side Feature
